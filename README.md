@@ -23,6 +23,7 @@ for sequence in sequences:
         L = S[0]
     else
         L = L + sequence
+        sort(L, reference)
         Temp_L = NULL
         for prev_MEM, MEM in zip(L, L[1:]):
             b1 = {prev_MEM.reference, prev_MEM.reference + prev_MEM.length}
