@@ -29,7 +29,10 @@ for sequence in sequences:
             b2 = {MEM.reference, MEM.reference + MEM.length}
             if intersection(b1,b2):
                 Temp_L = Temp_L + intersection(b1,b2)
+        L = Temp_L
                 
     i = i + 1
+
+return longest_chain(L)
 ```
 
