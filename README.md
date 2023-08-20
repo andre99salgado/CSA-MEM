@@ -1,6 +1,10 @@
 # CSA-MEM
 ## Circular FM-Index
 
+<img width="1297" alt="image" src="https://github.com/andre99salgado/CSA-MEM/assets/61476040/2b3db5b8-3e75-405b-b810-ee5d8d04978a">
+<img width="1323" alt="image" src="https://github.com/andre99salgado/CSA-MEM/assets/61476040/a2fd7f95-ef86-4ccf-abc1-413ed4eccf93">
+<img width="1302" alt="image" src="https://github.com/andre99salgado/CSA-MEM/assets/61476040/a5be80e0-ba15-4c09-bc26-09bcec12acd4">
+<img width="1300" alt="image" src="https://github.com/andre99salgado/CSA-MEM/assets/61476040/8c78ea56-0841-4876-93b5-b940476b3c18">
 
 ## Most Significant Common Subsequence Chain of MEMs
 Pseudo-Code:
